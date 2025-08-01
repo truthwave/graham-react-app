@@ -3,9 +3,7 @@
 このアプリは、米国株および日本株の株価情報を取得し、グレアムの理論株価やROEを使った評価、割安度などを計算・表示するReact + Flask製Webアプリです。
 
 ## 📷 スクリーンショット
-
-![screenshot](./screenshot.png) <!-- ※必要に応じてパス変更 -->
-
+<img width="898" height="542" alt="image" src="https://github.com/user-attachments/assets/dfa15014-44d4-4b33-887b-b2dc838aaf8a" />
 ---
 
 ## 🚀 主な機能
