@@ -1,5 +1,5 @@
 <p>
-<img width="1536" height="1024" alt="20250801_1650_株価分析のデジタルシーン_simple_compose_01k1j9nxevejj9k5xfsg3pe7nf" src="https://github.com/user-attachments/assets/168935ef-6a82-459c-afa2-346363d070f9" />
+<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/f3d52c8f-a0fb-409b-a3e1-d37aad4be052" />
 </p>
 
 # グレアム割安株価チェッカー
