@@ -1,3 +1,7 @@
+<p>
+<img width="1536" height="1024" alt="20250801_1650_株価分析のデジタルシーン_simple_compose_01k1j9nxevejj9k5xfsg3pe7nf" src="https://github.com/user-attachments/assets/168935ef-6a82-459c-afa2-346363d070f9" />
+</p>
+
 # グレアム割安株価チェッカー
 
 このアプリは、米国株および日本株の株価情報を取得し、グレアムの理論株価やROEを使った評価、割安度などを計算・表示するReact + Flask製Webアプリです。
