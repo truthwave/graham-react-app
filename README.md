@@ -90,3 +90,9 @@ graham-react-app/
 ## 📜 ライセンス
 
 MITライセンス
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
