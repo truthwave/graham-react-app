@@ -1,5 +1,6 @@
 <p>
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/f3d52c8f-a0fb-409b-a3e1-d37aad4be052" />
+<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/c6db5534-71e2-4bef-8591-af38a3d36d33" />
+
 </p>
 
 # グレアム割安株価チェッカー
