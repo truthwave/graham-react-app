@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/e4d74697-b153-4838-9b6b-36f6fbf090f4" />
 
 
