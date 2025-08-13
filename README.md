@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/e4d74697-b153-4838-9b6b-36f6fbf090f4" />
+<img width="800" alt="段落テキスト" src="https://github.com/user-attachments/assets/e4d74697-b153-4838-9b6b-36f6fbf090f4" />
 
 
 </p>
@@ -107,3 +107,8 @@ MITライセンス
 [ともプログラム便り](https://github.com/TomoProgrammingDayori)
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
+
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
+
