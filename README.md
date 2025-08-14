@@ -1,7 +1,5 @@
 <p align="center">
 <img width="800" alt="段落テキスト" src="https://github.com/user-attachments/assets/e4d74697-b153-4838-9b6b-36f6fbf090f4" />
-
-
 </p>
 
 # グレアム割安株価チェッカー
