@@ -19,7 +19,7 @@
 <img width="898" height="542" alt="スクリーンショット" src="https://github.com/user-attachments/assets/7940d524-e6d0-46d0-8280-8eb8ec9da963" />
 
 ## 📷 デモ動画
-[デモ動画](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
+![デモ動画](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 ---
 
