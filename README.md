@@ -15,9 +15,11 @@
 ![スライド6](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E5%89%B2%E5%AE%89%E6%A0%AA%E4%BE%A1%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%896.PNG)
 
 
-## 📷 デモ動画
-![無題の動画 ‐ Clipchampで作成](https://github.com/user-attachments/assets/7850a6cd-8abc-4eae-8585-f79d7a1f5871)
+## 📷 スクリーンショット
+<img width="898" height="542" alt="スクリーンショット" src="https://github.com/user-attachments/assets/7940d524-e6d0-46d0-8280-8eb8ec9da963" />
 
+## 📷 デモ動画
+[デモ動画](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 ---
 
