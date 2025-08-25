@@ -7,7 +7,6 @@
 このアプリは、米国株および日本株の株価情報を取得し、グレアムの理論株価やROEを使った評価、割安度などを計算・表示するReact + Flask製Webアプリです。
 
 ## プロジェクト概要
-![スライド1](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E5%89%B2%E5%AE%89%E6%A0%AA%E4%BE%A1%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%891.PNG)
 ![スライド2](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E5%89%B2%E5%AE%89%E6%A0%AA%E4%BE%A1%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
 ![スライド3](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E5%89%B2%E5%AE%89%E6%A0%AA%E4%BE%A1%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
 ![スライド4](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E5%89%B2%E5%AE%89%E6%A0%AA%E4%BE%A1%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
