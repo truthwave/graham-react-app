@@ -29,8 +29,6 @@ This app is a React + Flask web application that fetches stock price information
 ---
 
 ## 📷 Screenshots
-
----
 ![Screenshots](http://github.com/TomoAIDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88.png)
 
 
