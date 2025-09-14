@@ -93,7 +93,7 @@ graham-react-app/
 
 ## 🧑‍💻 Creator
 
-[Tomo AI Dayori](https://github.com/truthwave)
+**[Truth Wave](https://github.com/truthwave)**  
 
 Check out my portfolio and AI tool development updates too!
 
