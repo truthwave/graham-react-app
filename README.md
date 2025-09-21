@@ -99,6 +99,8 @@ graham-react-app/
 
 MITライセンス
 
+---
+
 ## 🧑‍💻 作者
 
 **[Truth Wave ― 真理の波](https://github.com/truthwave)**  
