@@ -61,7 +61,7 @@ Graham Lens は、EPS / BPS / ROE と成長率 g を用い、
 ### 1. クローン
 
 ```bash
-git clone https://github.com/yourname/graham-react-app.git
+git clone https://github.com/truthwave/graham-react-app.git
 cd graham-react-app
 ````
 
