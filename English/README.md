@@ -1,54 +1,66 @@
+# Graham Undervalued Stock Checker
+
+> **Don't look at price. Look at value.**
+> See the difference in just seconds.
+> Investing isn't about “what you see.” It's about “how you think.”
+
 <p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/4826d2c6-1375-4511-b0a7-e30d656457ec" />
 
 </p>
 
-# Graham Undervalued Stock Checker
+---
 
-This app is a React + Flask web application that fetches stock price information for US and Japanese stocks, calculates and displays Graham's theoretical stock price, ROE-based valuation, undervaluation levels, and more.
+## Why We Created It
+
+Many investors get swayed by “price.”
+But **Value** (**intrinsic value**) often lies elsewhere.
+
+The Graham Lens is a single layer that uses EPS / BPS / ROE and growth rate g
+to simply visualize the gap between price and value.
 
 ---
 
-## 🚀 Key Features
+## Experience (Ends with 3 Cards)
 
-| Feature                     | Description |
-|---------------- ----------|------|
-| 🇯🇵/🇺🇸 Switch Japanese/US Stocks | Automatically handles tickers with `.T` or standard tickers |
-| 🔍 Stock Data Retrieval         | Retrieves current stock price, EPS, BPS, etc. using `yfinance` |
-| 📊 Graham Theory Stock Price Calculation | Calculates valuation metrics based on `√(22.5 × EPS × BPS)` |
-| 📈 Extended Graham Theory Stock Price | Displays an extended model using EPS and growth rate |
-| 💡 ROE Variation Stock Price | Calculates `ROE × BPS × (8.5 + 2 × Growth Rate)` |
-| 🛡 Margin of Safety (MOS 30%)     | Displays 70% of ROE-based theoretical stock price |
-| 🧮 PER/PBR Calculation          | Calculates metrics by comparing to current stock price |
-| 💾 Input History Save          | Saves latest 10 search histories to local storage |
-| ❌ Individual History Deletion    | Delete one entry at a time via button click |
-| ⭐️ Favorite Saving        | One-touch ticker list registration/unregistration feature |
-| 🔁 Auto-Restore Last Input Values   | Restores input values and markets upon page reload |
-| 🌑 Dark Theme UI        | Unified with simple, eye-friendly dark colors |
+- **Graham (Common Name)**: √(22.5 × EPS × BPS)
+- **ROE Valuation**: ROE × BPS × (8.5 + 2 × g) (g is assumed via slider)
+- **MOS (Margin of Safety)**: 30% default buffer relative to the above metrics
+A single comparison bar displays **Current Stock Price / Theoretical Values / MOS** side-by-side.
+Close out noise and make your judgment.
 
 ---
 
-## 📷 Screenshots
-<img width="898" height="542" alt="スクリーンショット" src="https://github.com/user-attachments/assets/17e75a65-4f6b-4c92-b679-4362c4193e43" />
+## How to Use
+1. Select country (🇺🇸 / 🇯🇵)
+2. Enter ticker (e.g., AAPL, 7203.T)
+3. Press **[Get & Calculate]**
 
+If needed, check sensitivity using the **g (growth rate)** and **MOS** sliders.
 
+The last 10 entries are displayed as “Recently Viewed Values” in pill format. Click to re-fetch.
 
-## 🛠 Technical Setup
+---
+## Transparency
+- Data: yfinance (delays/gaps possible)
+- Currency: Follows ticker country (USD / JPY). Caution for ADRs
+- Assumption: Graham value hidden if EPS ≤ 0 or BPS ≤ 0 (reason in tooltip)
+- Calculation: JPY conversion for USD stocks via explicit toggle. Includes retrieval time and exchange rate
+- Disclaimer: This app is for **reference only** and is not investment advice
 
-- Frontend: **React + Axios + CSS**
-- Backend: **Flask + yfinance + pandas**
-- State Management: **React Hooks (useState, useEffect)**
-- Persistence: **localStorage**
-- CORS Support: **Flask-CORS**
+--- 
+
+## Demo & Slides
+![Demo Video](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 ---
 
-## 🔧 Setup Instructions
+## 🔧 Setup
 
 ### 1. Clone
 
 ```bash
-git clone https://github.com/yourname/graham-react-app.git
+git clone https://github.com/truthwave/graham-react-app.git
 cd graham-react-app
 ````
 
@@ -75,7 +87,15 @@ In your browser:
 
 ---
 
-## 📂 Directory Structure
+## Technologies
+- Frontend: React / Axios / CSS (Dark UI)
+- Backend: Flask / yfinance / pandas (Flask-CORS)
+- State Management: React Hooks (useState / useEffect)
+- Persistence: localStorage (Recently Viewed Values / Favorites / Last Input Restore)
+
+---
+
+📂 Directory Structure
 
 ```
 graham-react-app/
@@ -91,12 +111,24 @@ graham-react-app/
 
 ---
 
-## 🧑‍💻 Creator
 
-**[Truth Wave](https://github.com/truthwave)**  
+## 📜 License
 
-Check out my portfolio and AI tool development updates too!
+MIT License
+
+---
+
+## 🧑‍💻 Author
+
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+Check out our portfolio and AI tool development resources too!
 
 
-## Feel free to reach out
+## Feel Free to Contact Us
 [📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+
+---
+
+## 🏁 In Closing
+> **Cut the explanation. Keep the truth.**
+> Investing is the courage to say “yes” to value.
