@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img width="800" alt="段落テキスト" src="https://github.com/user-attachments/assets/e4d74697-b153-4838-9b6b-36f6fbf090f4" />
+<img width="1536" height="1024" alt="グレアム (2)" src="https://github.com/user-attachments/assets/3ab4f87f-bad1-49cc-9e47-65816cecc1bf" />
 </p>
 
 ---
