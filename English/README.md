@@ -5,8 +5,7 @@
 > Investing isn't about “what you see.” It's about “how you think.”
 
 <p align="center">
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/4826d2c6-1375-4511-b0a7-e30d656457ec" />
-
+<img width="1536" height="1024" alt="グレアム (1)" src="https://github.com/user-attachments/assets/86e1b107-8135-422a-bbee-77f809571ff6" />
 </p>
 
 ---
