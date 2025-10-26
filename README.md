@@ -52,7 +52,7 @@ Graham Lens は、EPS / BPS / ROE と成長率 g を用い、
 
 ##  デモ & スライド
 ![デモ動画](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
-[スライド](https://github.com/truthwave/graham-react-app/tree/main/%E8%B3%87%E6%96%99/%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E5%89%B2%E5%AE%89%E6%A0%AA%E4%BE%A1%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
+[スライド](https://github.com/truthwave/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E5%89%B2%E5%AE%89%E6%A0%AA%E4%BE%A1%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
 
 ---
 
