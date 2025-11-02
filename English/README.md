@@ -52,6 +52,8 @@ The last 10 entries are displayed as “Recently Viewed Values” in pill format
 ## Demo & Slides
 ![Demo Video](https://github.com/TomoProgrammingDayori/graham-react-app/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
+[Slide](https://github.com/truthwave/graham-react-app/blob/main/English/Materials/Graham%20Undervalued%20Stock%20Checker.pdf)
+
 ---
 
 ## 🔧 Setup
