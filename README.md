@@ -1,3 +1,5 @@
+### [English](https://github.com/truthwave/graham-react-app/tree/main/English)
+
 # グレアム割安株価チェッカー
 
 > **価格を見るな。価値を見ろ。**
